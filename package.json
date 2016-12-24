@@ -1,0 +1,29 @@
+{
+  "name": "dota2-boilerplate-scripts",
+  "version": "0.0.0",
+  "description": "A boilerplate repository for the scripts portion of a dota2 addon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AngelArenaAllstars/boilerplate-scripts.git"
+  },
+  "keywords": [
+    "dota2"
+  ],
+  "author": "Chris Vickery <chrisinajar@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AngelArenaAllstars/boilerplate-scripts/issues"
+  },
+  "homepage": "https://github.com/AngelArenaAllstars/boilerplate-scripts#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-dota2-npc": "^0.4.0"
+  },
+  "devDependencies": {
+    "semistandard": "^9.2.1"
+  }
+}
